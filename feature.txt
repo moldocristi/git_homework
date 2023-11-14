@@ -1,0 +1,11 @@
+In your local repository, create a new branch named "feature".
+
+Switch to the "feature" branch.
+
+Create a new text file in the "git_homework" folder called "feature.txt".
+
+Write a few lines about your favorite feature of Git or GitHub.
+
+Add and commit this file.
+
+Push the "feature" branch to your GitHub repository.
