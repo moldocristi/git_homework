@@ -1,2 +1,0 @@
-First I forgot to save the file, so it was uploaded empty.
--understanding the request sometimes, as i was not sure from where to do the action, as first time user it takes some time to find all the screens and buttons.
